@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1491927689 source:c:\users\michael\desktop\kuc\arrayad\main.cpp
+	<iostream>
+	<vector>
+
